@@ -34,7 +34,7 @@
       "name": "360资源"
     },
     "iqiyi": {
-        "api": "https://www.iqiyizy"api".com/"api".php/provide/vod",
+        "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
         "name": "iqiyi资源"
     },
     "maotaizy": {
@@ -55,7 +55,7 @@
       "name": "豆瓣资源"
     },
     "hwba": {
-        "api": "https://cjhwba.com/"api".php/provide/vod",
+        "api": "https://cjhwba.com/api.php/provide/vod",
         "name": "华为吧资源"
     },
     "mozhua": {
